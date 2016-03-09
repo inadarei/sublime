@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Monokai Neue/Monokai-Neue.tmTheme",
+	"extensions":
+	[
+		".csslintrc",
+		".jscsrc",
+		"geojson",
+		".eslintrc",
+		".jshintrc",
+		".bowerrc"
+	]
+}
