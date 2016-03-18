@@ -10,7 +10,11 @@ My Sublime settings
     ```console
     > cd ~/
     > git clone https://github.com/inadarei/sublime.git
-    > cp ~/sublime/*-settings ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
+    > cd sublime
+    > export ST3U="$HOME/Library/Application Support/Sublime Text 3/Packages/User"
+    > cp "Package Control.sublime-settings" "$ST3U/Package Control.sublime-settings"  
+    > cp "Preferences.sublime-settings" "$ST3U/Preferences.sublime-settings"
+    > # Restart Sublime Text
     ```
 
 To install terminal integration, put the following in your `~/.bash_profile` or `~/.profile`:
