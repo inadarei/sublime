@@ -1,7 +1,7 @@
 # sublime
 My Sublime settings
 
-# Installation
+# Installation on OS-X
 
 1. Install Sublime Text 3
 2. Install Package Control: https://packagecontrol.io/installation
