@@ -23,9 +23,9 @@
     > # Stop Sublime
     > cd "$HOME/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime"
     > npm install && cd -
-    > cp "*-settings" "$ST3U/"
+    > cp -R colour-schemes/* "$ST3U"
+    > cp *-settings "$ST3U/"
     > # Start Sublime
-
     ```
 
 ### Terminal Integration 
