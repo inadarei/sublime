@@ -22,7 +22,7 @@ My Sublime settings
     > # Stop Sublime
     > cd "$HOME/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime"
     > npm install && cd -
-    > cp "Preferences.sublime-settings" "$ST3U/Preferences.sublime-settings"
+    > cp "*-settings" "$ST3U/"
     > # Start Sublime
 
     ```
