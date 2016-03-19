@@ -14,7 +14,7 @@ My Sublime settings
     > cd sublime
     > # Stop Sublime Text
     > export ST3U="$HOME/Library/Application Support/Sublime Text 3/Packages/User"
-    > rm "$ST3U/Preferences.sublime-settings"
+    > test -f "$ST3U/Preferences.sublime-settings" && rm "$ST3U/Preferences.sublime-settings"
     > cp "Package Control.sublime-settings" "$ST3U/Package Control.sublime-settings"  
     > # Start Sublime Text
     > # Show Sublime's Console by clicking `Ctrl + ``. Wait until every missing package is installed. 
