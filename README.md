@@ -1,5 +1,6 @@
-# sublime
-My Sublime settings
+# Sublime setup for JavaScript/Node Development
+
+Sublime Text is the greatest text editor that is very easy to hate. I should know: I hated it for years. And the reason is: it is very barebone and super-confusing to get a nice setup, unless somebody mentors you. Well, somebody did eventually show me how to get started and I quickly fell in love. In order to help others get over the initial steep setup curve - I created this repo.
 
 # Installation on OS-X
 
