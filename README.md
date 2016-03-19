@@ -19,7 +19,11 @@ My Sublime settings
     > # Start Sublime Text
     > # Show Sublime's Console by clicking `Ctrl + ``. Wait until every missing package is installed. 
     > # You may get some annoying alerts. 
+    > # Stop Sublime
+    > cd "$HOME/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime"
+    > npm install
     > cp "Preferences.sublime-settings" "$ST3U/Preferences.sublime-settings"
+    > # Start Sublime
 
     ```
 
