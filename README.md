@@ -1,6 +1,6 @@
 # Sublime Setup for JS/Node Devs
 
-[Sublime Text](https://www.sublimetext.com/) is the greatest text editor that is very easy to hate. I should know: I hated it for years. And the reason is: it is super barebone/unappearlin out of the box. And it is super-confusing to get a nice setup, unless somebody shows you the ropes. Well, [somebody](https://github.com/gogasan) did eventually show me how to get started and I quickly fell in love with Sublime. In order to help others get over the initial steep setup curve - I created this repo.
+[Sublime Text](https://www.sublimetext.com/) is the greatest text editor that is very easy to hate. I should know: I hated it for years. And the reason is: it is super barebone/unappealing out of the box. And it is super-confusing to get a nice setup, unless somebody shows you the ropes. Well, [somebody](https://github.com/gogasan) did eventually show me how to get started and I quickly fell in love with Sublime. In order to help others get over the initial steep setup curve - I created this repo.
 
 # Installation on OS-X
 
