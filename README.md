@@ -6,7 +6,7 @@ My Sublime settings
 1. Install Sublime Text 3
 1. Install Package Control: https://packagecontrol.io/installation
 1. Restart Sublime 
-1. Install configs that will install the packages I recommend:
+2. Install configs that will install the packages I recommend:
 
     ```console
     > cd ~/
