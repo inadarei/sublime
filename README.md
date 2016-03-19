@@ -17,7 +17,7 @@ My Sublime settings
     > cp "Package Control.sublime-settings" "$ST3U/Package Control.sublime-settings"  
     > # Start Sublime Text
     > # Show Sublime's Console by clicking `Ctrl + ``. Wait until every missing package is installed. 
-    >  # You may get some annoying alerts. 
+    > # You may get some annoying alerts. 
     > cp "Preferences.sublime-settings" "$ST3U/Preferences.sublime-settings"
 
     ```
