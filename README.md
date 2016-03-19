@@ -28,8 +28,16 @@
 
     ```
 
+### Terminal Integration 
+
 To install terminal integration, put the following in your `~/.bash_profile` or `~/.profile`:
 
 ```
 alias subl='open -a /Applications/Sublime\ Text.app'
 ```
+
+### More Information
+
+1. To find more awesome packages you may enjoy: https://packagecontrol.io/
+2. To install a package: `Cmd+Shift+P` and then type: `Install Package` + Enter + package name
+3. To remove a package: `Cmd+Shift+P` and then type: `Remove Package` + Enter + package name
