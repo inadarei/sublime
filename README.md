@@ -41,3 +41,6 @@ alias subl='open -a /Applications/Sublime\ Text.app'
 1. To find more awesome packages you may enjoy: https://packagecontrol.io/
 2. To install a package: `Cmd+Shift+P` and then type: `Install Package` + Enter + package name
 3. To remove a package: `Cmd+Shift+P` and then type: `Remove Package` + Enter + package name
+4. If you are like me and love seeing open files on the sidebar, instead of tab bar:
+    - View -> SideBar -> Show Open Files
+    - View -> Hide Tabs
