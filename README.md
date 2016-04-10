@@ -18,7 +18,7 @@
     > test -f "$ST3U/Preferences.sublime-settings" && rm "$ST3U/Preferences.sublime-settings"
     > cp "Package Control.sublime-settings" "$ST3U/Package Control.sublime-settings"  
     > # Start Sublime Text
-    > # Show Sublime's Console by clicking `Ctrl + ``. Wait until every missing package is installed. 
+    > # Show Sublime's Console by clicking "Ctrl + `". Wait until every missing package is installed. 
     > # You may get some annoying alerts. 
     > # Stop Sublime
     > cd "$HOME/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime"
