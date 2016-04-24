@@ -25,7 +25,6 @@
     > npm install && cd -
     > cp -R colour-schemes/* "$ST3U"
     > cp *-settings "$ST3U/"
-    > cp "Preferences.sublime-settings" "$ST3U/Preferences.sublime-settings" 
     > # Start Sublime
     ```
 
