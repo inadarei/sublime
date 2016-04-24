@@ -22,7 +22,7 @@
     > # You may get some annoying alerts. 
     > # Stop Sublime
     
-    # If you have Node/npm installed and would like Tern support in Sublime:
+    > # If you have Node/npm installed and would like Tern support in Sublime:
     > cd "$HOME/Library/Application Support/Sublime Text 3/Packages/tern_for_sublime"
     > npm install && cd -
     
