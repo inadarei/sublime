@@ -1,22 +1,17 @@
 {
-	"added_words":
+	"ignored_packages":
 	[
-		"microservices"
+		"Vintage",
 	],
+	"theme": "SoDaReloaded Dark.sublime-theme",
+	"font_size" : 18,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-        "default_line_ending": "unix",
-	"draw_white_space": "all",
+	"default_line_ending": "unix",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
-	"font_options":
-	[
-		"gray_antialias"
-	],
-	"font_size": 19,
 	"highlight_line": true,
 	"rulers":
 	[
@@ -25,8 +20,7 @@
 	"soda_classic_tabs": false,
 	"soda_folder_icons": true,
 	"spell_check": true,
-	"tab_size": 2,
-	"theme": "SoDaReloaded Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"wide_caret": true
+	"wide_caret": true,
+	"draw_white_space": ["trailing", "isolated", "selection", "all_mixed"]
+
 }
